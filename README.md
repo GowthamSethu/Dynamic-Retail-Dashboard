@@ -75,22 +75,22 @@ The **Dynamic Retail Dashboard** answers several business questions, providing i
   ![image](https://github.com/user-attachments/assets/8b6d30e6-53c2-451a-b463-ca4d4eca469e)
 
 - **Category-wise Profit** – Breakdown of profit by product category.
- ![image](https://github.com/user-attachments/assets/16ad0c4a-b328-46a0-8719-441a9c6e1639)
+  ![image](https://github.com/user-attachments/assets/16ad0c4a-b328-46a0-8719-441a9c6e1639)
 
 - **Segment-wise Sales Share %** – Breakdown of sales by customer segment.
- ![image](https://github.com/user-attachments/assets/2e35501d-da23-45dc-b1b0-45151be83929)
+  ![image](https://github.com/user-attachments/assets/2e35501d-da23-45dc-b1b0-45151be83929)
 
 - **Sales by Country** – Sales performance based on different countries.
- ![image](https://github.com/user-attachments/assets/89d26711-674b-4797-81a2-c93a6eae5c9b)
+  ![image](https://github.com/user-attachments/assets/89d26711-674b-4797-81a2-c93a6eae5c9b)
 
 - **Top 5 Subcategories** – The best-performing subcategories based on sales.
-- ![image](https://github.com/user-attachments/assets/07375ae5-f88f-4052-b33d-6250f589ff85)
+  ![image](https://github.com/user-attachments/assets/07375ae5-f88f-4052-b33d-6250f589ff85)
 
 - **Bottom 5 Subcategories** – The least-performing subcategories based on sales.
-  ![image](https://github.com/user-attachments/assets/e7305c0c-a64a-426b-a701-1caece775fcc)
+   ![image](https://github.com/user-attachments/assets/e7305c0c-a64a-426b-a701-1caece775fcc)
 
 - **Yearly Sales Trend** – Understanding how sales evolve over the year.
-  ![image](https://github.com/user-attachments/assets/a672fb79-5c7a-44f7-8afa-0bb7a0945ab6)
+   ![image](https://github.com/user-attachments/assets/a672fb79-5c7a-44f7-8afa-0bb7a0945ab6)
 
 
 ---
