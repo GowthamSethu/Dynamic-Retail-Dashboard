@@ -104,6 +104,7 @@ The **Dynamic Retail Dashboard** answers several business questions, providing i
 ---
 
 **Snapshot of the entire Dashboard**
+
 ![image](https://github.com/user-attachments/assets/91ff08b4-9bb0-4cf9-aff7-a838271fd094)
 
 
