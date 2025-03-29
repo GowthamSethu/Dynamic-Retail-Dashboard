@@ -1,5 +1,20 @@
-Orders Table  
-Contains transactional details, including product, customer, and financial metrics.  
+Overview
+The Retail Dashboard in Excel is an interactive data visualization tool designed to analyze retail sales performance. It integrates Power Query, Pivot Tables, and Dynamic Charts to provide key insights into sales, profitability, orders, and market trends. This dashboard enables data-driven decision-making for businesses looking to optimize operations and increase efficiency.
+
+Features:
+Automated Data Processing using Power Query
+
+KPI Dashboard with key business metrics
+
+Interactive Charts & Visualizations for in-depth analysis
+
+Sales & Profitability Insights across different segments and categories
+
+Geographic Sales Analysis by country and region
+
+Datasets Used
+1. Orders Table
+Contains transactional details, including product, customer, and financial metrics.
 
 **Sample Data:**  
 
@@ -17,3 +32,4 @@ Tracks orders that were returned along with the associated market.
 |----------|----------------|--------|
 | Yes      | MX-2013-168137  | LATAM  |
 | Yes      | US-2011-165316  | LATAM  |
+
